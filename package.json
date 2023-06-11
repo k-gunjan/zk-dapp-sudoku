@@ -1,0 +1,14 @@
+{
+  "name": "zk-dapp-sudoku-puzzle",
+  "version": "1.0.0",
+  "description": "zkp based dapp to submit the  solution of sudoku puzzle without revealing the solution to the netowrk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "circomlib": "^2.0.5"
+  }
+}
